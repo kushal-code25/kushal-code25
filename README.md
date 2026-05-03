@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**kushal-code25/kushal-code25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
  🔭 I’m currently working on ..Marketing and business development projects..
  🌱 I’m currently learning: Digital marketing strategies, business automation tools, and advanced sales execution techniques.
 
